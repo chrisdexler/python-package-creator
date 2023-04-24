@@ -47,4 +47,4 @@ poetry run ppc example_project --org example_organization
 
 The script reads the Cookiecutter template URL from a TOML configuration file. If the configuration file does not exist, it will be created with the default Cookiecutter URL: https://github.com/chrisdexler/cookiecutter-pypackage
 
-You can change the default template by modifying the configuration file, located at the user config directory, with the file name my_cli.toml.
+You can change the default template by modifying the configuration file, located at the user config directory, with the file name python-package-creator/config.toml.
