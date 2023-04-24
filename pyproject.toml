@@ -1,9 +1,9 @@
 [tool.poetry]
-name = "ppc"
+name = "python-package-creator"
 version = "0.1.0"
 description = "A command line tool for creating Python projects and pushing them to GitHub"
 authors = ["Your Name <your.email@example.com>"]
-license = "MIT"
+license = "GPLv3"
 
 [tool.poetry.dependencies]
 python = "^3.8"
