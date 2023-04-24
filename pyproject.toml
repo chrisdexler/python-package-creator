@@ -2,7 +2,7 @@
 name = "python-package-creator"
 version = "0.1.0"
 description = "A command line tool for creating Python projects and pushing them to GitHub"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Chris Dexler <129110538+chrisdexler@users.noreply.github.com>"]
 license = "GPLv3"
 
 [tool.poetry.dependencies]
