@@ -1,4 +1,4 @@
-# PPC - Python Project Creator
+# PPC - Python Package Creator
 
 PPC is a command line tool for creating Python projects, checking package name availability on PyPI, initializing a GitHub repository, and pushing the project to the repository. It uses the Click package for the command line interface, the Requests package for making API calls, and the Cookiecutter package for generating project templates.
 
