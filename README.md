@@ -25,10 +25,9 @@ Now you can run the PPC command:
 ```
 ppc <name> [--org organization]
 ```
+`<name>`: The desired name for the Python package and GitHub repository.
 
-<name>: The desired name for the Python package and GitHub repository.
-
-[--org organization]: (Optional) The GitHub organization under which the repository will be created. If not provided, the repository will be created under your personal GitHub account.
+`[--org organization]`: (Optional) The GitHub organization under which the repository will be created. If not provided, the repository will be created under your personal GitHub account.
 
 ## Example
 
