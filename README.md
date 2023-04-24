@@ -34,13 +34,13 @@ ppc <name> [--org organization]
 Create a Python project with the name example_project:
 
 ```
-poetry run ppc example_project
+ppc example_project
 ```
 
 Create a Python project with the name example_project under the organization example_organization:
 
 ```
-poetry run ppc example_project --org example_organization
+ppc example_project --org example_organization
 ```
 
 ## Configuration
