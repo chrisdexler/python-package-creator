@@ -8,8 +8,6 @@ Convenience tool for quickly creating new Python packages.
 
 ## Installation
 
-Before using the script, make sure to install the required dependencies:
-
 ```
 pip install python-package-creator
 ```
